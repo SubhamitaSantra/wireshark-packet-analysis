@@ -23,7 +23,7 @@ Capture live network traffic and identify basic protocols using Wireshark on mac
 
 ## Files
 - `network-capture.pcap` – Packet capture file
-- `README.md` – This report
+- `report.md` – This report
 
 ## Outcome
 Basic hands-on experience with network protocols and packet analysis.
